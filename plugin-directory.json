@@ -42,5 +42,9 @@
   {
     "npmUrl": "https://www.npmjs.com/package/rozenite-graphql-client-devtool",
     "githubUrl": "https://github.com/CodeByRahulSaini/rozenite-graphql-client-devtool"
+  },
+  {
+    "npmUrl": "https://www.npmjs.com/package/rozenite-assets-viewer",
+    "githubUrl": "https://github.com/CodeByRahulSaini/rozenite-assets-viewer"
   }
 ]
